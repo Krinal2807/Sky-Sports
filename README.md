@@ -14,4 +14,6 @@ In our case study, we have two tables, group_stage_team_stats and overall_wc_sta
 
 # Overview
 
-Analyze FIFA World Cup data for the "Football Digest: Post Match Analysis" show. Use MySQL to analyze team and player performance. Provide key insights on match highlights, tactics, and player contributions.
+Analyze FIFA World Cup data for the "Football Digest: Post Match Analysis" show. Use MySQL to analyze team and player performance. Provide key insights on match highlights, tactics, and player contributions.Team performance per match (goals, possession, shots, etc.). Player statistics (goals, assists, appearances, cards, etc.).Deliver valuable insights to enhance viewers' understanding of the game
+
+
